@@ -6,6 +6,7 @@ Course: IS 4010
 Semester/Year: Fall 2022
 Brief Description: 
 Anything else that's relevant: 
+Created on November 16
 '''
 
 import json, requests
